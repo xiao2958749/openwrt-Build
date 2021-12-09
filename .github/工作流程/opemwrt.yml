@@ -34,3 +34,5 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          
+[![Makefile CI](https://github.com/xiao2958749/openwrt-Build/actions/workflows/makefile.yml/badge.svg)](https://github.com/xiao2958749/openwrt-Build/actions/workflows/makefile.yml)
